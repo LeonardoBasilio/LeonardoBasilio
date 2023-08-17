@@ -34,11 +34,11 @@
 
 - 🌱 I’m currently learning **to event Streaming Plataform with Apache Kafka.**
 
-- ☁️ I've keen interest in cloud computing to Data Enginner. So,I'm learning **Azure**
+- ☁️ I've keen interest in cloud computing to Data Enginner. So, I'm learning **Microsoft Azure Tools**
 
 - 📝 I regularly Public Dashboards on [Tableau Public](https://public.tableau.com/app/profile/leonardo.basilio)
 
-- 💬 Ask me about **ETL, SQL, DataVIZ,Python**
+- 💬 Ask me about **ETL, SQL, DataVIZ and Python**
 
 - 📫 Feel free to reach me out **leobasilio2010@gmail.com**
 
