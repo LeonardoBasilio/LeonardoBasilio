@@ -39,7 +39,7 @@
 
 - 💬 Ask me about **ETL, SQL, DataVIZ and Python**
 
-- 📫 Feel free to reach me out **leobasilio2010@gmail.com**
+<!-- - 📫 Feel free to reach me out **leobasilio2010@gmail.com** -->
 
 <!-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886). -->
 <!--Intro end-->
